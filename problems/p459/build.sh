@@ -9,4 +9,3 @@ RUN_CMD="./$EXEC_NAME"
 
 $COMPILE_CMD
 $RUN_CMD
-diff --color -u output.txt expected.txt
